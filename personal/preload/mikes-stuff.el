@@ -4,5 +4,6 @@
 ;;    last modified 2016-08-11
 ;;
 ;;; Code:
-(prelude-require-packages '(multiple-cursors))
+
+
 ;;; mikes-stuff.el ends here
